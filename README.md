@@ -5,10 +5,10 @@ I participated UMD's 1-week data challenge with a team of 3 other students (Lind
 
 
 The tools I used were:
-⋅⋅* Jupyter Notebooks (Python)
-⋅⋅* Pandas
-⋅⋅* Seaborn
-⋅⋅* Folium
+  * Jupyter Notebooks (Python)
+  * Pandas
+  * Seaborn
+  * Folium
 
 _____________________________________________________________________________________________________________________
 
