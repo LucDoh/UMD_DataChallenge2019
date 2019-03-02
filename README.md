@@ -1,6 +1,6 @@
 # UMD_DataChallenge2019
 
-I participated UMD's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick). This repository consists of the jupyter notebooks I used to clean the data, transform the data into forms that we more usefull and perform EDA to answer our research questions. We did a combination of temporal and spatial analysis to make recommendations to Zagster on how to improve their bike-share service. Using our analysis and the 1/4 mile standard (urban planning standard), we came up with three new locations for stations. 
+I participated in UMD's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick). This repository contains the jupyter notebooks I used to clean the data, transform the data into forms that we more usefull and perform EDA to answer our research questions. It also contains some csvs of the formatted data. We did a combination of temporal and spatial analysis to make recommendations to Zagster on how to improve their bike-share service. Using our analysis and the 1/4 mile standard (urban planning standard), we came up with three new locations for stations. 
 
 
 
