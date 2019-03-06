@@ -1,14 +1,16 @@
-# UMD_DataChallenge2019
+# UMD_DataChallenge2019 [Best in Community Integration]
 
-I participated in UMD's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick). This repository contains the jupyter notebooks I used to clean the data, transform the data into forms that we more usefull and perform EDA to answer our research questions. It also contains some csvs of the formatted data. We did a combination of temporal and spatial analysis to make recommendations to Zagster on how to improve their bike-share service. Using our analysis and the 1/4 mile standard (urban planning standard), we came up with three new locations for stations. 
+I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick), where we won Best Community Integration. This repository contains the jupyter notebooks I used to clean and transform the data into more useful forms, perform EDA to answer our research questions and make geospatial + statistical visualizations. It also contains our PPT presentation as a pdf.
 
+We performed a combination of temporal and spatial analyses to make recommendations to Zagster on how to improve their bike-share service in College Park, Maryland. By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we came up with three new locations for stations. Additionally, we demonstrated how the issue of bike imbalance emerges due the users' tendencies, and showed quantitatively how often trucks would need to balance the stations. Linda & Grace showed how usage varies seaonally, by day of the week as well as with the weather (rain and temperature).
 
-
-The tools I used were:
+The tools I used most were:
   * Jupyter Notebooks (Python)
   * Pandas
   * Seaborn
   * Folium
+  
+ 
 
 _____________________________________________________________________________________________________________________
 
