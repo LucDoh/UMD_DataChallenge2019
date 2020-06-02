@@ -1,5 +1,5 @@
 # mBike Bikeshare Analysis  
-## [Best in Community Integration at UMD's 2019 Data Challenge]
+## [Best in Community Integration at UMD's 2019 Data Challenge](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
 
 I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick), where we won Best Community Integration. This repository contains the jupyter notebooks I used to clean and transform the data into more useful forms, perform EDA to answer our research questions and make geospatial + statistical visualizations. It also contains our PPT presentation as a pdf.
 
