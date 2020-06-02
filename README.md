@@ -1,7 +1,7 @@
 # mBike Bikeshare Analysis  
 ## [Best in Community Integration at UMD's 2019 Data Challenge](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
 
-I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick), where we won Best Community Integration. This repository contains the jupyter notebooks I used to clean and transform the data into more useful forms, perform EDA to answer our research questions and make geospatial + statistical visualizations. It also contains our PPT presentation as a pdf.
+I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick), where we won Best Community Integration. This repository contains the Jupyter notebooks I used to clean and transform the data, perform EDA to answer our research questions, and make geospatial + statistical visualizations. It also contains our presentation as a pdf.
 
 We performed a combination of temporal and spatial analyses to make recommendations to Zagster on how to improve their bike-share service in College Park, Maryland. By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we predicted the three best new locations for stations. Additionally, we demonstrated how the issue of bike imbalance emerges due the users' tendencies, and showed quantitatively how often trucks would need to balance the stations. Linda & Grace showed how usage varies seaonally, by day of the week as well as with the weather (rain and temperature, from NOAA data).
 
@@ -11,7 +11,7 @@ The tools I used most were:
   * Seaborn
   * Folium
 
-Other members of the team mostly used Tableau and SAS for analysis and visualization.
+The team used Tableau and SAS.
   
 _____________________________________________________________________________________________________________________
 _____________________________________________________________________________________________________________________
