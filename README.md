@@ -10,7 +10,7 @@ By analyzing the bike usage by station and making use of the 1/4 mile standard (
 ***
 
 ### Tools used:
-  * Jupyter Notebooks (Python)
+  * Jupyter Notebooks/Python
   * Pandas
   * Seaborn
   * Folium
