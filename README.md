@@ -1,19 +1,19 @@
-# mBike Bikeshare Analysis  
-## [Best in Community Integration at UMD's 2019 Data Challenge](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
+# UMD Data Challenge 2019: Bikeshare in College Park 
+## [Best in Community Integration](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
 
-I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace & Ruthwick), where we won Best Community Integration. We also consulted with a Professor of Urban Planning, Dr. Iseki. This repository contains the Jupyter notebooks I used to clean and transform data, perform EDA to answer our research questions, and make geospatial visualizations.
+I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace, & Ruthwick), where we won Best in Community Integration. We consulted with Professor of Urban Planning, Dr. Iseki to study the dataset. This repository contains the Jupyter notebooks I used to clean and transform data, perform EDA to answer our research questions, and make geospatial visualizations.
 
-Using a combination of temporal and spatial analyses, we made recommendations to Zagster on how to improve their bike-share service in College Park, Maryland.
+After studying the data, we suggested three new stations to Zagster for their College Park service.
 
-By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we predicted the three best new locations for stations. We also showed how the issue of bike imbalance emerges due to users' tendencies (people don't like going uphill), and gave estimates for how often stations would need to be rebalanced. Linda & Grace showed how usage varies seaonally, by day/time as well as with the weather (rain and temperature from NOAA).
+By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we predicted the three best new locations for stations. We also showed how bike imbalances emerge due to user tendencies (people don't like going uphill), and gave estimates for how often stations would need to be rebalanced. Linda & Grace showed how usage varies seasonally, by day/time as well as with the weather (rain and temperature from NOAA).
 
-The tools I used most were:
+***
+
+### Tools used:
   * Jupyter Notebooks (Python)
   * Pandas
   * Seaborn
   * Folium
-
-Our team also used Tableau and SAS.
   
 ***
 
