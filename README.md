@@ -1,5 +1,5 @@
 # UMD Data Challenge 2019: Bikeshare in College Park 
-## [Best in Community Integration](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
+### [Best in Community Integration](https://datachallenge.ischool.umd.edu/data-challenge-2019/)
 
 I participated in University of Maryland's 1-week data challenge with a team of 3 other students (Linda, Grace, & Ruthwick), where we won Best in Community Integration. We consulted with Professor of Urban Planning, Dr. Iseki to study the dataset. This repository contains the Jupyter notebooks I used to clean and transform data, perform EDA to answer our research questions, and make geospatial visualizations.
 
