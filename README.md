@@ -14,5 +14,6 @@ By analyzing the bike usage by station and making use of the 1/4 mile standard (
   * Seaborn
   * Folium
 
-### Dataset + Prompt -  City of College Park mBike Bikeshare
+### Dataset + Prompt
+#### City of College Park mBike Bikeshare
 "From 6/14/2017 to 1/14/2019 and contains 1,851,924 rows ... fields for GPS coordinates, Trip ID, Events (i.e. Docking/Undocking/Pausing), User ID, Date and Time. Bikeshare data analysis could help us locate new bikeshare stations based on current usage patterns or figure out what months/days/times are most popular. Data visualization would help with these questions. ... Or, students could combine our data with historic weather data to see how much weather conditions affect ridership. We’re open to any insights that the students can discover." - Provided by mBike (http://datachallenge.ischool.umd.edu/datasets/)
