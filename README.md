@@ -7,15 +7,12 @@ After studying the data, we suggested three new stations to Zagster for their Co
 
 By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we predicted the three best new locations for stations. We also showed how bike imbalances emerge due to user tendencies (people don't like going uphill), and gave estimates for how often stations would need to be rebalanced. Linda & Grace showed how usage varies seasonally, by day/time as well as with the weather (rain and temperature from NOAA).
 
-***
 
 ### Tools used:
   * Jupyter Notebooks/Python
   * Pandas
   * Seaborn
   * Folium
-  
-***
 
-### Dataset -  City of College Park mBike Bikeshare
-"From 6/14/2017 to 1/14/2019 and contains 1,851,924 rows ... contains fields for GPS coordinates, Trip ID, Events (i.e. Docking/Undocking/Pausing), User ID, Date and Time. Bikeshare data analysis could help us locate new bikeshare stations based on current usage patterns or figure out what months/days/times are most popular. Data visualization would help with these questions. ... Or, students could combine our data with historic weather data to see how much weather conditions affect ridership. We’re open to any insights that the students can discover." - Provided by mBike (http://datachallenge.ischool.umd.edu/datasets/)
+### Dataset + Prompt -  City of College Park mBike Bikeshare
+"From 6/14/2017 to 1/14/2019 and contains 1,851,924 rows ... fields for GPS coordinates, Trip ID, Events (i.e. Docking/Undocking/Pausing), User ID, Date and Time. Bikeshare data analysis could help us locate new bikeshare stations based on current usage patterns or figure out what months/days/times are most popular. Data visualization would help with these questions. ... Or, students could combine our data with historic weather data to see how much weather conditions affect ridership. We’re open to any insights that the students can discover." - Provided by mBike (http://datachallenge.ischool.umd.edu/datasets/)
