@@ -5,7 +5,7 @@ I competed in University of Maryland's 1-week data challenge with a team with 3 
 
 After studying the data, we suggested three new stations to Zagster for their College Park service.
 
-By analyzing the bike usage by station and making use of the 1/4 mile standard (an urban planning standard for how far people are willing to walk to a transit station), we predicted the three best new locations for stations. We also showed how bike imbalances emerge due to user tendencies (people don't like going uphill), and gave estimates for how often stations would need to be rebalanced. Linda & Grace showed how usage varies seasonally, by day/time as well as with the weather (rain and temperature from NOAA).
+By analyzing the bike usage by station and making use of the 1/4 mile standard (a standard in urban planning for how far the average person is willing to walk to a transit station), we suggested three new locations for stations. We also showed how geographical imbalances emerge due to user tendencies (people don't like going uphill), and gave estimates for how often stations would need to be rebalanced. Linda & Grace showed how usage varies seasonally, by day/time as well as with the weather (rain and temperature from NOAA).
 
 
 ### Tools used:
